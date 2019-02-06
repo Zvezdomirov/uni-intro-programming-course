@@ -48,7 +48,7 @@ int main()
 	}
 
 	std::cout << "The digit " << containedDigit << " occurs " <<
-		occurenceCount << " times in " << input;
+		occurenceCount << " times in " << input << ", nigga!";
 
 	return 0;
 }
